@@ -1,0 +1,24 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry_Adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_Ripple_Carry_Adder'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_Ripple_Carry_Adder'
+ERROR: [VRFC 10-2935] 'sub' is already declared in this region [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:22]
+ERROR: [VRFC 10-2935] 'a' is already declared in this region [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:23]
+ERROR: [VRFC 10-2935] 'b' is already declared in this region [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:24]
+ERROR: [VRFC 10-2935] 's' is already declared in this region [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:28]
+ERROR: [VRFC 10-2935] 'cout' is already declared in this region [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:29]
+ERROR: [VRFC 10-2935] 'v' is already declared in this region [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:30]
+ERROR: [VRFC 10-3208] cannot update 'in' object 'sub' [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:51]
+ERROR: [VRFC 10-3208] cannot update 'in' object 'a' [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:52]
+ERROR: [VRFC 10-3208] cannot update 'in' object 'b' [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:53]
+ERROR: [VRFC 10-3208] cannot update 'in' object 'a' [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:56]
+ERROR: [VRFC 10-3208] cannot update 'in' object 'b' [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:57]
+ERROR: [VRFC 10-3208] cannot update 'in' object 'a' [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:60]
+ERROR: [VRFC 10-3208] cannot update 'in' object 'b' [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:61]
+ERROR: [VRFC 10-3208] cannot update 'in' object 'a' [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:64]
+ERROR: [VRFC 10-3208] cannot update 'in' object 'b' [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:65]
+ERROR: [VRFC 10-3208] cannot update 'in' object 'sub' [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:68]
+ERROR: [VRFC 10-3208] cannot update 'in' object 'a' [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:69]
+ERROR: [VRFC 10-3208] cannot update 'in' object 'b' [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:70]
+ERROR: [VRFC 10-3208] cannot update 'in' object 'a' [D:/VHL/Matricula/RIPPLE_carry/RIPPLE_carry.srcs/sim_1/new/tb_Ripple_Carry.vhd:73]
+INFO: [#UNDEF] Sorry, too many errors..

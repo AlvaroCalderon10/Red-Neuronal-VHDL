@@ -1,0 +1,7 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: D:/XilinxVivado/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 70b149c495084028bdaf93f286ccec7f --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_popcount_4_behav xil_defaultlib.tb_popcount_4 -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-664] expression has 3 elements ; expected 8 [D:/VHL/Matricula/POPCOUNTFINAL/POPCOUNTFINAL.srcs/sim_1/new/tb_popcount.vhd:11]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit tb_popcount_4 in library work failed.

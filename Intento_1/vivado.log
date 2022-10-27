@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon Oct 24 12:28:07 2022
+# Process ID: 2028
+# Current directory: D:/VHL/Matricula/Intento_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5776 D:\VHL\Matricula\Intento_1\Intento_1.xpr
+# Log file: D:/VHL/Matricula/Intento_1/vivado.log
+# Journal file: D:/VHL/Matricula/Intento_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project -read_only D:/VHL/Matricula/Intento_1/Intento_1.xpr
+Scanning sources...
+Finished scanning sources
+WARNING: [Project 1-229] Project 'Intento_1.xpr' is read-only and therefore could not be upgraded for this version of Vivado.  Use 'File | Save Project As...' if you wish to save an upgraded copy.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/xilinx/Vivado/2020.1/data/ip'.
+open_project: Time (s): cpu = 00:00:14 ; elapsed = 00:00:24 . Memory (MB): peak = 1011.816 ; gain = 0.000
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Oct 24 13:18:36 2022...

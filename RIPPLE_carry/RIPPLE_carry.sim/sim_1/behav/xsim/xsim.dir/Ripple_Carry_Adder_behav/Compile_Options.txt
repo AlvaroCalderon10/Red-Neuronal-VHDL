@@ -1,0 +1,1 @@
+-wto "2f123a601fed40d48809d1fc6f9cc2b7" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Ripple_Carry_Adder_behav" "xil_defaultlib.Ripple_Carry_Adder" -log "elaborate.log" 

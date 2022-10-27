@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../Intento_1/Intento_1.srcs/sources_1/new/Popcount_4.vhd" \
+"../../../../POPCOUNTFINAL.srcs/sim_1/new/tb_popcount.vhd" \
+
+# Do not sort compile order
+nosort
